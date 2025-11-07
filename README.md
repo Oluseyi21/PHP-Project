@@ -29,8 +29,8 @@ The project displays products listing, store information and user page, with a c
 - shop.php -> Shop page which displays product
 - contact.php -> Contact form
 - register.php -> login
-  Includes
+ # Includes
   - header.php
   - footer.php
-    CSS
+  #  CSS
     - style.css
