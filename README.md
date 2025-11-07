@@ -24,7 +24,7 @@ The project displays products listing, store information and user page, with a c
     - GitHub
 
  # FILE OVERVIEW     
-- home.php -> Homepage with featured product
+- index.php -> Homepage with featured product
 - about.php -> About page which stores information
 - shop.php -> Shop page which displays product
 - contact.php -> Contact form
