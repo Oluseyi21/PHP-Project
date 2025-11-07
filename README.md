@@ -15,3 +15,22 @@ The project displays products listing, store information and user page, with a c
   # DATABASE
   - Stores users registration info
   - Stores product details
+
+  # TECHNOLOGIES USED
+    - HTML5
+    - CSS
+    - PHP
+    - MySQL
+    - GitHub
+
+ # FILE OVERVIEW     
+- home.php -> Homepage with featured product
+- about.php -> About page which stores information
+- shop.php -> Shop page which displays product
+- contact.php -> Contact form
+- register.php -> login
+  Includes
+  - header.php
+  - footer.php
+    CSS
+    - style.css
