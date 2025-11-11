@@ -27,6 +27,7 @@ The project displays products listing, store information and user page, with a c
 - index.php -> Homepage with featured product
 - about.php -> About page which stores information
 - shop.php -> Shop page which displays product
+- product.php -> Individual product page with details
 - contact.php -> Contact form
 - register.php -> login
  # Includes
@@ -34,3 +35,5 @@ The project displays products listing, store information and user page, with a c
   - footer.php
   #  CSS
     - style.css
+    - blue and yellow color theme
+    - responsive layout
