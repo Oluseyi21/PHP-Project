@@ -20,7 +20,7 @@ require_once './Templates/header.php';
                     <h3>Apple Macbook Pro 15</h3>
                     <p>High performance laptop designed for speed and Up to 24 hours battery life.</p>
                     <p class="price">$1,599.99</p>
-                    <a href="../Week-1/product1.php" class="btn-link">View Details</a>
+                    <a href="product1.php" class="btn-link">View Details</a>
                 </div>
 
                 <!-- Product 2 -->
@@ -29,7 +29,7 @@ require_once './Templates/header.php';
                     <h3>Iphone 14 pro</h3>
                     <p>An advanced triple-lens camera design.</p>
                     <p class="price">$899.99</p>
-                    <a href="../Week-1/product2.php" class="btn-link">View Details</a>
+                    <a href="product2.php" class="btn-link">View Details</a>
                 </div>
 
                 <!-- Product 3 -->
@@ -38,7 +38,7 @@ require_once './Templates/header.php';
                     <h3>Wireless Headphones</h3>
                     <p>Noise-cancelling Bluetooth headphones with 15-hour battery life</p>
                     <p class="prices">$399.99</p>
-                    <a href="../Week-1/product3.php" class="btn-link">View Details</a>
+                    <a href="product3.php" class="btn-link">View Details</a>
                 </div>
 
                 <!-- Product 4 -->
@@ -47,7 +47,7 @@ require_once './Templates/header.php';
                     <h3>Smartwatch</h3>
                     <p>Multipurpose use</p>
                     <p class="price">$299.99</p>
-                    <a href="../Week-1/product4.php" class="btn-link">View Details</a>
+                    <a href="product4.php" class="btn-link">View Details</a>
                 </div>
 
                 <!-- Product 5 -->
@@ -56,7 +56,7 @@ require_once './Templates/header.php';
                     <h3>Bluetooth Speaker</h3>
                     <p>Portable wireless speaker.</p>
                     <p class="prices">$599.99</p>
-                    <a href="../Week-1/product5.php" class="btn-link">View Details</a>
+                    <a href="product5.php" class="btn-link">View Details</a>
                 </div>
             </div>
         </div>
@@ -64,3 +64,4 @@ require_once './Templates/header.php';
 </main>
 
 <?php require './Templates/footer.php'; ?>
+
