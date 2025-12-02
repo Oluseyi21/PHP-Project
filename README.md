@@ -24,7 +24,12 @@ A customer-facing layout with multiple pages
     - PHP
     - MySQL
     - GitHub
-
+ # PHP
+    # CRUD
+    - create.php -> Adds a new project
+    - read.php -> View all products
+    - update.php -> Edit products details
+    - delete.php -> Remove a product
  # FILE OVERVIEW     
 - index.php -> Homepage with featured product
 - about.php -> About page which stores information
@@ -43,12 +48,7 @@ A customer-facing layout with multiple pages
     - animation
     - clip path
 
-    #PHP
-    #CRUD
-    - create.php -> Adds a new project
-    - read.php -> View all products
-    - update.php -> Edit products details
-    - delete.php -> Remove a product
+  
     
 project/
 |
