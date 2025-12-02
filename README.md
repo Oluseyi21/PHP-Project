@@ -30,6 +30,12 @@ A customer-facing layout with multiple pages
     - read.php -> View all products
     - update.php -> Edit products details
     - delete.php -> Remove a product
+    - dashboard.php
+    - login.php
+    - logout.php
+    - admin.php
+    - update.php
+    - delete.php
  # FILE OVERVIEW     
 - index.php -> Homepage with featured product
 - about.php -> About page which stores information
@@ -40,6 +46,9 @@ A customer-facing layout with multiple pages
  # Includes
   - header.php
   - footer.php
+  - - Session.php
+    - Database.php
+    - User.php
   #  CSS
     - style.css
     - blue and yellow color theme
