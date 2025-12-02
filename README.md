@@ -39,6 +39,17 @@ A customer-facing layout with multiple pages
     - style.css
     - blue and yellow color theme
     - responsive layout
+    - hover effects
+    - animation
+    - clip path
+
+    #PHP
+    #CRUD
+    - create.php -> Adds a new project
+    - read.php -> View all products
+    - update.php -> Edit products details
+    - delete.php -> Remove a product
+    
 project/
 |
 |- classes
